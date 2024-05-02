@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: var(--azul-claro);
+    color:var(--branco);
+}
+:root{
+    --Roxo-claro: #C77DFF;
+    --azul-claro: #0582CA;
+    --preto: #10002B;
+    --violeta: #5A189A;
+    --azul-ciano: #00A6FB;
+    --azul: #00A6FB;
+    --branco: #ffffff;
+
+}
