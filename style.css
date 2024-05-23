@@ -51,4 +51,14 @@ body {
 .cabecalho-nav__link:hover{
     color: var(--verde);
     font-size: 35px;
+    transition: 0.7s;
 }
+.principal-capa__titulo{
+    color: var(--preto);
+    font-size: 35px;
+}
+.principal-capa__texto{
+    color: var(--preto);
+    font-size: 25px;
+}
+
